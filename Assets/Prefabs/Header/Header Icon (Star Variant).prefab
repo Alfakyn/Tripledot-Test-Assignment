@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6067793102574244832
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 154713258100604284, guid: 5a5fd35a6cedce249b9b2589f321f2e9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: a3c507950ebc09848ad46276b0e8135b, type: 3}
+    - target: {fileID: 4946824711813899541, guid: 5a5fd35a6cedce249b9b2589f321f2e9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946824711813899541, guid: 5a5fd35a6cedce249b9b2589f321f2e9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946824711813899541, guid: 5a5fd35a6cedce249b9b2589f321f2e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946824711813899541, guid: 5a5fd35a6cedce249b9b2589f321f2e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946824711813899541, guid: 5a5fd35a6cedce249b9b2589f321f2e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6865041892160070193, guid: 5a5fd35a6cedce249b9b2589f321f2e9, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 239
+      objectReference: {fileID: 0}
+    - target: {fileID: 6865041892160070193, guid: 5a5fd35a6cedce249b9b2589f321f2e9, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 227
+      objectReference: {fileID: 0}
+    - target: {fileID: 6865041892160070193, guid: 5a5fd35a6cedce249b9b2589f321f2e9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 32.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6865041892160070193, guid: 5a5fd35a6cedce249b9b2589f321f2e9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 11.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8287208434544956865, guid: 5a5fd35a6cedce249b9b2589f321f2e9, type: 3}
+      propertyPath: m_text
+      value: 165
+      objectReference: {fileID: 0}
+    - target: {fileID: 8287208434544956865, guid: 5a5fd35a6cedce249b9b2589f321f2e9, type: 3}
+      propertyPath: m_fontSize
+      value: 96
+      objectReference: {fileID: 0}
+    - target: {fileID: 8345842337224027856, guid: 5a5fd35a6cedce249b9b2589f321f2e9, type: 3}
+      propertyPath: m_Name
+      value: Header Icon (Star Variant)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5a5fd35a6cedce249b9b2589f321f2e9, type: 3}
