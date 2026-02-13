@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8287320586518553570
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 364817004455936486, guid: 03e20edd30e781a43913b57e106555a2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5148987053922073540, guid: 03e20edd30e781a43913b57e106555a2, type: 3}
+      propertyPath: m_Name
+      value: Footer Button (Home Variant)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7341334235197415426, guid: 03e20edd30e781a43913b57e106555a2, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c1f0b34eceb24ed47863e2854f5f012e, type: 3}
+    - target: {fileID: 7487320751439338551, guid: 03e20edd30e781a43913b57e106555a2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7487320751439338551, guid: 03e20edd30e781a43913b57e106555a2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7487320751439338551, guid: 03e20edd30e781a43913b57e106555a2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7487320751439338551, guid: 03e20edd30e781a43913b57e106555a2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7487320751439338551, guid: 03e20edd30e781a43913b57e106555a2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7514447558570480808, guid: 03e20edd30e781a43913b57e106555a2, type: 3}
+      propertyPath: m_text
+      value: Home
+      objectReference: {fileID: 0}
+    - target: {fileID: 7514447558570480808, guid: 03e20edd30e781a43913b57e106555a2, type: 3}
+      propertyPath: m_fontSize
+      value: 139.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7514447558570480808, guid: 03e20edd30e781a43913b57e106555a2, type: 3}
+      propertyPath: m_fontSizeMax
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 7805526657627592010, guid: 03e20edd30e781a43913b57e106555a2, type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 03e20edd30e781a43913b57e106555a2, type: 3}
