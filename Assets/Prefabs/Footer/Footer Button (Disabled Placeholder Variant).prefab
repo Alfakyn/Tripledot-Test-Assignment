@@ -52,6 +52,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7514447558570480808, guid: 03e20edd30e781a43913b57e106555a2, type: 3}
+      propertyPath: m_text
+      value: 'Disabled
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7514447558570480808, guid: 03e20edd30e781a43913b57e106555a2, type: 3}
+      propertyPath: m_fontSize
+      value: 124.4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
