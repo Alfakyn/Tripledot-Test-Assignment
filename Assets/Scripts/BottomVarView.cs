@@ -46,32 +46,16 @@ public class BottomVarView : MonoBehaviour
 	/// <summary>
 	/// Barebones method that serves as a callback for when a button has been clicked/tapped
 	/// </summary>
-	/// <param name="content">Placeholder for the content that would open when this method is fired</param>
-	public void ContentActivated(Transform content = null)
+	public void ContentActivated()
 	{
-		if (content != null)
-		{
-			Debug.Log(content.name + " has been activated");
-		}
-		else
-		{
-			Debug.Log("Content activated. No parameter passed");
-		}
+		Debug.Log("Content activated");
 	}
 
 	/// <summary>
 	/// Barebones method that serves as a callback for when certain content would be toggled off (i.e. a "close" button on a menu has been pressed)
 	/// </summary>
-	/// <param name="content">Placeholder for the content that would close when this method is fired</param>
-	public void ContentDeactivated(Transform content = null)
+	public void ContentDeactivated()
 	{
-		if (content != null)
-		{
-			Debug.Log(content.name + " has been deactivated");
-		}
-		else
-		{
-			Debug.Log("Content deactivated. No parameter passed");
-		}
+		Debug.Log("Content deactivated");
 	}
 }
